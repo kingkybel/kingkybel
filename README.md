@@ -1,11 +1,16 @@
 ![kingkybel programming banner](assets/banners/profile-banner.svg)
 
-Welcome to my corner of GitHub, where practical tools, clean C++, and useful Python utilities come together.
-If you like code that solves real problems without unnecessary noise, you are in the right place.
+## About
 
-I have been fascinated by computers since I was 16 and have been programming ever since, turning a hobby into a profession.
-I have worked both as a contractor and in permanent roles, and I still have fun building software and learning new techniques.
+**Welcome to my corner of GitHub.**
 
+I build practical tools, clean C++, and streamlined Python utilities. My philosophy is simple: code should solve real-world problems without the noise.
+
+What started as a teenage fascination has evolved into a career spanning both contract and permanent roles. I’m a lifelong learner who still finds genuine joy in the craft of building software and mastering new techniques.
+
+---
+
+## C++
 
 ![C++ themed banner](assets/banners/cpp-banner.svg)
 
@@ -21,8 +26,9 @@ C++ is my core skill, and these repositories serve as both a mental reminder of 
 - [MessageToObject](https://github.com/kingkybel/MessageToObject) - Generates polymorphic objects from message strings for flexible parsing workflows.
 - [FixDecoder](https://github.com/kingkybel/FixDecoder) - Tools for decoding and inspecting FIX messages used in trading systems.
 
+---
 
-## CMake Common
+## CMake
 
 ![CMake Common themed banner](assets/banners/cmake-banner.svg)
 
@@ -30,6 +36,7 @@ Build system consistency matters, and this repository captures reusable CMake mo
 
 - [CMakeCommon](https://github.com/kingkybel/CMakeCommon) - Shared CMake modules and conventions to standardize project setup and build behavior.
 
+---
 
 ## DevTools
 
@@ -42,9 +49,9 @@ This section focuses on practical tooling that reduces friction in day-to-day en
     - heap analyses
     - ...
 
+---
 
 ## Python
-
 
 ![Python themed banner](assets/banners/python-banner.svg)
 
@@ -54,6 +61,7 @@ Python is an additional useful skill I use to aid and accelerate development.
 - [PyFlashLogger](https://github.com/kingkybel/PyFlashLogger) - A flexible logging utility aimed at quick integration and clear output.
 - [Python-utilities](https://github.com/kingkybel/Python-utilities) - Handy utility scripts to speed up repetitive development and automation tasks.
 
+---
 
 ## Bash Scripts
 
@@ -63,6 +71,9 @@ This section collects practical shell utilities and aliases that speed up repeti
 
 - [bash-scripts](https://github.com/kingkybel/bash-scripts) - Helpful Bash scripts and aliases for day-to-day development tasks.
 
+---
+
+## Tutorials
 
 ![Tutorial themed banner](assets/banners/tutorials-banner.svg)
 
