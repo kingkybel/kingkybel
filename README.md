@@ -73,6 +73,16 @@ This section collects practical shell utilities and aliases that speed up repeti
 
 ---
 
+## Ansible
+
+![Ansible themed banner](assets/banners/ansible-banner.svg)
+
+Automation through Ansible helps manage infrastructure as code and maintain consistent server environments.
+
+- [Ansible](https://github.com/kingkybel/Ansible) - Playbooks, roles, and inventory for automated system setup and orchestration.
+
+---
+
 ## Tutorials
 
 ![Tutorial themed banner](assets/banners/tutorials-banner.svg)
