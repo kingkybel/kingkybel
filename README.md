@@ -18,6 +18,7 @@ C++ is my core skill, and these repositories serve as both a mental reminder of 
 
 - [DebugTrace](https://github.com/kingkybel/DebugTrace) - Lightweight tracing helpers to improve debugging and runtime visibility.
 - [TypeTraits](https://github.com/kingkybel/TypeTraits) - Reusable type traits and templates for cleaner metaprogramming.
+- [PerformanceTimer](https://github.com/kingkybel/PerformanceTimer) - A header-only C++ utility for lightweight scoped performance measurements.
 - [ContainerConvert](https://github.com/kingkybel/ContainerConvert) - Utilities for converting and adapting data between STL container types.
 - [StringUtilities](https://github.com/kingkybel/StringUtilities) - Practical string helpers for parsing, formatting, and transformation tasks.
 - [JsonObject](https://github.com/kingkybel/JsonObject) - A small library focused on creating and working with JSON objects in C++.
