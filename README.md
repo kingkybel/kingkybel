@@ -70,7 +70,7 @@ Python is an additional useful skill I use to aid and accelerate development.
 
 This section collects practical shell utilities and aliases that speed up repetitive terminal workflows.
 
-- [bash-scripts](https://github.com/kingkybel/bash-scripts) - Helpful Bash scripts and aliases for day-to-day development tasks.
+- [BashScripts](https://github.com/kingkybel/BashScripts) - Helpful Bash scripts and aliases for day-to-day development tasks.
 
 ---
 
