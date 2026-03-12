@@ -61,6 +61,7 @@ Python is an additional useful skill I use to aid and accelerate development.
 - [PyPIReleaseTool](https://github.com/kingkybel/PyPIReleaseTool) - Tool to build, package and release Python packages to PyPI.
 - [PyFundamentals](https://github.com/kingkybel/PyFundamentals) - Foundational Python examples and building blocks for everyday scripting.
 - [PyFlashLogger](https://github.com/kingkybel/PyFlashLogger) - A flexible logging utility aimed at quick integration and clear output.
+- [PyProcess](https://github.com/kingkybel/PyProcess) - Comprehensive Python utility library for file system operations and process management.
 - [Python-utilities](https://github.com/kingkybel/Python-utilities) - Handy utility scripts to speed up repetitive development and automation tasks.
 
 ---
