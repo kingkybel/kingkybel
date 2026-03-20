@@ -21,6 +21,7 @@ C++ is my core skill, and these repositories serve as both a mental reminder of 
 - [PerformanceTimer](https://github.com/kingkybel/PerformanceTimer) - A header-only C++ utility for lightweight scoped performance measurements.
 - [ContainerConvert](https://github.com/kingkybel/ContainerConvert) - Utilities for converting and adapting data between STL container types.
 - [StringUtilities](https://github.com/kingkybel/StringUtilities) - Practical string helpers for parsing, formatting, and transformation tasks.
+- [RingBuffer](https://github.com/kingkybel/RingBuffer) - Header only library for ring-buffers.
 - [JsonObject](https://github.com/kingkybel/JsonObject) - A small library focused on creating and working with JSON objects in C++.
 - [ThreadUtilities](https://github.com/kingkybel/ThreadUtilities) - Utilities that simplify common threading and concurrency patterns.
 - [DirectedGraph](https://github.com/kingkybel/DirectedGraph) - Data structures and logic for working with directed graph models.
