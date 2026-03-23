@@ -27,6 +27,7 @@ C++ is my core skill, and these repositories serve as both a mental reminder of 
 - [DirectedGraph](https://github.com/kingkybel/DirectedGraph) - Data structures and logic for working with directed graph models.
 - [MessageToObject](https://github.com/kingkybel/MessageToObject) - Generates polymorphic objects from message strings for flexible parsing workflows.
 - [FixDecoder](https://github.com/kingkybel/FixDecoder) - Tools for decoding and inspecting FIX messages used in trading systems.
+- [FastFuriousTransformation](https://github.com/kingkybel/FastFuriousTransformation) - Lightweight header-only FFT toolkit for embedded-friendly C++ projects. util::FFT implements a Cooley–Tukey radix-2 transform.
 
 ---
 
