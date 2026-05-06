@@ -65,6 +65,7 @@ Python is an additional useful skill I use to aid and accelerate development.
 - [PyFlashLogger](https://github.com/kingkybel/PyFlashLogger) - A flexible logging utility aimed at quick integration and clear output.
 - [PyError](https://github.com/kingkybel/PyError) - Error handling and exception management library for Python. 
 - [PyProcess](https://github.com/kingkybel/PyProcess) - Comprehensive Python utility library for file system operations and process management.
+- [PyJsonObject](https://github.com/kingkybel/PyJsonObject) - Library for reading and modifying nested JSON values using slash-separated key paths.
 - [Python-utilities](https://github.com/kingkybel/Python-utilities) - Handy utility scripts to speed up repetitive development and automation tasks.
 
 ---
